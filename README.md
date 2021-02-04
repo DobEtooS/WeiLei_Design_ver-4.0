@@ -19,4 +19,10 @@ WeiLei_Design_ver-4.0
      4.多用病句：正如您看到的这篇文章一样，极度反人类的语法准则习惯，极度复杂的描述，
      您要学会像您的z课本一样吹水。
      5.设计示例：
-     
+     ![](https://github.com/DobEtooS/WeiLei_Design_ver-4.0/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210203125735.jpg)
+     ![](https://github.com/DobEtooS/WeiLei_Design_ver-4.0/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210204204554.jpg)
+     ![](https://github.com/DobEtooS/WeiLei_Design_ver-4.0/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210204204558.jpg)
+     ![](https://github.com/DobEtooS/WeiLei_Design_ver-4.0/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210204204602.jpg)
+     ![](https://github.com/DobEtooS/WeiLei_Design_ver-4.0/blob/main/zhizichat1.png)
+     ![](https://github.com/DobEtooS/WeiLei_Design_ver-4.0/blob/main/zhizhi2.png)
+     ![](https://github.com/DobEtooS/WeiLei_Design_ver-4.0/blob/main/timg.jpg)
