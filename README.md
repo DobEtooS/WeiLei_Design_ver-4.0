@@ -18,7 +18,9 @@ WeiLei_Design_ver-4.0
      达到让外国友人看不懂的感觉，从而让外国友人也能感受到weilei design的神奇之处。
      4.多用病句：正如您看到的这篇文章一样，极度反人类的语法准则习惯，极度复杂的描述，
      您要学会像您的z课本一样吹水。
-     5.设计示例：
+     5.项目下载地址：
+        本仓库两个发行版
+     6.设计示例：
 ![image](https://github.com/DobEtooS/WeiLei_Design_ver-4.0/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210203125735.jpg)
 ![image](https://github.com/DobEtooS/WeiLei_Design_ver-4.0/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210204204554.jpg)
 ![image](https://github.com/DobEtooS/WeiLei_Design_ver-4.0/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210204204558.jpg)
@@ -26,3 +28,5 @@ WeiLei_Design_ver-4.0
 ![image](https://github.com/DobEtooS/WeiLei_Design_ver-4.0/blob/main/zhizichat1.png)
 ![image](https://github.com/DobEtooS/WeiLei_Design_ver-4.0/blob/main/zhizhi2.png)
 ![image](https://github.com/DobEtooS/WeiLei_Design_ver-4.0/blob/main/timg.jpg)
+![image](https://github.com/DobEtooS/WeiLei_Design_ver-4.0/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210204212218.png)
+     
